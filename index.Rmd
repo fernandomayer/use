@@ -7,6 +7,8 @@ output:
 
 # Detalhes da oferta da disciplina (página em construção)
 
+Algo aqui.
+
 - **Curso:** Estatística.
 - **Período:** segundo semestre de 2023
 - **Professor Responsável:**
