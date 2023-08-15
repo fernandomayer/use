@@ -1,0 +1,77 @@
+---
+title: "CE089 - Estatística Computacional II"
+output:
+  html_document:
+    toc: false
+---
+
+# Detalhes da oferta da disciplina (página em construção)
+
+- **Curso:** Estatística.
+- **Período:** segundo semestre de 2023
+- **Professor Responsável:**
+  - [Paulo Justiniano Ribeiro Junior][], [LEG][]/DEST/UFPR
+- **Horários e Locais:**
+  - Segunda, 19:00 - 20:30h, **a definir**
+  - Quinta, 20:45 - 22:15h, **a definir**
+- **Horários de atendimento do professor:** 
+  - terças e quintas, 17:00 - 18:00 (preferenciais). 
+  - Outros horários -->
+- **Avaliação**:
+  - A Nota na disciplina será dada pela média de avaliações e trabalhos, com pesos iguais.
+    - Critérios para aprovação:
+      - Frequência de pelo menos 75% e nota igual ou acima de 70 →  Aprovação sem Exame Final.
+      - Frequência de pelo menos 75% e Nota entre 40 e 70 →  Exame Final.
+      - Média entre Nota e Exame Final igual ou acima de 50 →  Aprovação.
+      - Nota inferior a 40 ou presença inferior a 75% →  Reprovação.
+      - Média entre Nota e Exame Final inferior a 50 →  Reprovação.
+- **Datas importantes:**
+    - **14-28/07/23**: SBPC 
+    - **31/07/23**: Início das aulas da disciplina
+    - **16-20/10/2023**: SIEPE
+    - **a definir**: Primeira prova
+    - **a definir**: Segunda prova
+    - **a definir**: *Upload* do primeiro trabalho
+    - **a definir**: Apresentação segundo trabalho
+    - **02/12/2023**: Término período letivo
+    - **04-09/12/2023**: Período de Exames finais
+
+# Programa/objetivos da disciplina
+
+1. Revisão e conceitos da linguagem R
+   - Objetos, classes e métodos
+   - Algoritmos e programação funcional
+   - Vetorização
+   - Documentos dinâmicos
+2. Revisão de princípios de inferência estatística e ilustrações computacionais
+3. Métodos para geração de números aleatórios
+   - Geração de números uniformes
+   - Método da transformação integral da probabilidade
+   - Método da aceitação e rejeição
+   - Métodos baseados em relações entre variáveis aleatórias
+4. Métodos estatísticos computacionalmente intensivos
+   - Integração de Monte Carlo
+   - Métodos de Monte Carlo em inferência estatística
+   - Métodos de reamostragem: *Boostrap* e *jackknife*
+   - Aplicação de métodos de reamostragem
+   - Testes de permutação
+   - Métodos de Monte Carlo via Cadeias de Markov (MCMC)
+
+# Ementa
+
+Métodos Computacionalmente Intensivos: Monte Carlo e Bootstrap;
+Estruturas complexas de dados; Linguagens e interfaces entre ambientes
+de análise de dados; Implementação computacional de métodos
+estatísticos; Algoritmos computacionalmente intensivos.
+
+<!-- links -->
+
+[Resolução 62/22 - CEPE - Calendário]: http://www.prograd.ufpr.br/portal/wp-content/uploads/2022/11/6222-15-Semanas.pdf
+
+
+<!--
+[Fernando de Pol Mayer]: http://leg.ufpr.br/~fernandomayer
+[Walmes Marques Zeviani]: http://leg.ufpr.br/~walmes
+[Paulo Justiniano Ribeiro Junior]: http://leg.ufpr.br/~paulojus
+[LEG]: http://www.leg.ufpr.br
+-->

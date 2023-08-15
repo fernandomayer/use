@@ -1,0 +1,27 @@
+name: "ce08"
+output_dir: "docs"
+exclude: ["README.md", "\\.sh", "cache", "notas.Rmd"]
+output:
+  html_document:
+    # css: ["config/sydney-site.css", "config/sydney-site-fonts.css"]
+    theme: flatly
+    highlight: textmate
+    # code_folding: hide
+    number_sections: false
+    toc: true
+    toc_depth: 2
+    toc_float:
+      collapsed: false
+      smooth_scroll: false
+        #includes:
+        #in_header: analytics.html
+        #after_body: footer.html
+navbar:
+  title: "CE08"
+  left:
+    - text: "Home"
+      href: index.html
+  right:
+    - text: GitHub
+      icon: fab fa-github
+      href: https://github.com/leg-ufpr/ce089
